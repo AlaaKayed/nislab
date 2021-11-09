@@ -1,0 +1,5 @@
+172.16.107.95 apache_package=apache2 php_package=libapache2-mod-php
+172.16.107.98 apache_package=apache2 php_package=libapache2-mod-php
+172.16.107.97 apache_package=apache2 php_package=libapache2-mod-php
+172.16.107.107 apache_package=httpd php_package=php
+
